@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Who are invited",
+      "author": "josh",
+      "id": "2"
+    },
+    {
+      "id": "d4db",
+      "title": "asdfasdfa",
+      "body": "sdfasdf",
+      "author": "mario"
+    },
+    {
+      "id": "9965",
+      "title": "asdfasdf",
+      "body": "asdfasdf",
+      "author": "mario"
+    }
+  ]
+}
